@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">YaAuthorizer</string>
+    <string name="login">Login</string>
+    <string name="logged_in">Logged in</string>
+    <string name="avatar_image">Avatar image</string>
+</resources>
